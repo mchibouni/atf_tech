@@ -89,6 +89,9 @@ define('WPLANG', 'fr_FR');
  */ 
 define('WP_DEBUG', false); 
 
+define('FS_METHOD', 'direct');
+
+
 /* C'est tout, ne touchez pas à ce qui suit ! Bon blogging ! */
 
 /** Chemin absolu vers le dossier de WordPress. */
